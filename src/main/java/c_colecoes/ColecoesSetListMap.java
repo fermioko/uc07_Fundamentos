@@ -33,16 +33,14 @@ public class ColecoesSetListMap {
 
         System.out.println("\n");
 
-//        Map<Integer,String> mapa = new HashMap<>();
-//
-//        mapa.add(100, "Battle Royale");
-//        mapa.add(200, "Another");
-//        mapa.add(300, "Ghost Hunt");
-//        mapa.add(400, "Death Note");
-//
-//        for (){
-//
-//        }
+        Map<Integer,String> mapa = new HashMap<>();
+
+        mapa.put(100, "Battle Royale");
+        mapa.put(200, "Another");
+        mapa.put(300, "Ghost Hunt");
+        mapa.put(400, "Death Note");
+
+        System.out.println("Mapa = " + mapa);
 
     }
 }
@@ -54,3 +52,9 @@ public class ColecoesSetListMap {
 // Map<Integer,String> mapa = new HashMap<>().
 // Obs: Set não permite duplicidades
 
+// Map - Lista com Chave/Valor
+// Map<Integer, String> mapaCidade = new HashMap<>();
+// mapaCidade.put(1, "Araraquara");
+// mapaCidade.put(2, "Sao Paulo");
+// mapaCidade.put(3, "Americo Brasiliense");
+// System.out.println("Mapa = " + mapaCidade);    }}
