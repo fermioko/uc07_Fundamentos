@@ -1,4 +1,4 @@
-package d_operadores;
+package a_lista_um.d_operadores;
 
 import java.util.Scanner;
 

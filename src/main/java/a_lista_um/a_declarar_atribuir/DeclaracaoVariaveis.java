@@ -1,4 +1,4 @@
-package a_declarar_atribuir;
+package a_lista_um.a_declarar_atribuir;
 
 public class DeclaracaoVariaveis {
     public static int varInt = 50;

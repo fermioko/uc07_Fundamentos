@@ -1,4 +1,4 @@
-package g_manipulacao_string;
+package a_lista_um.g_manipulacao_string;
 
 import java.util.Scanner;
 

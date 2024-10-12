@@ -1,4 +1,4 @@
-package c_colecoes;
+package a_lista_um.c_colecoes;
 
 import java.util.*;
 

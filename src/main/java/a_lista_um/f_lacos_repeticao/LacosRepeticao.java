@@ -1,4 +1,4 @@
-package f_lacos_repeticao;
+package a_lista_um.f_lacos_repeticao;
 
 import java.util.Scanner;
 

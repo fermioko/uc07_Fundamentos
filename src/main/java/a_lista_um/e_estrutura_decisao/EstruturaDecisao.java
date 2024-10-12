@@ -1,4 +1,4 @@
-package e_estrutura_decisao;
+package a_lista_um.e_estrutura_decisao;
 
 import java.util.Scanner;
 
